@@ -6,8 +6,9 @@
 <meta http-equiv="X-UA-Comatible" content="ie=edge">
 <title>HTNL 5 Boilerplate</title>
 <lint rel="stylesheet" href="style.css">
-<\head>
+</head>
 <body>
-<script src="index.js"></script>
+<p>welcome to my page</p>
 </body>
-<\html>
+
+</html>
